@@ -24,6 +24,10 @@
 	font-family: var(--main-font) !important;
 }
 
+.monaco-workbench.mac {
+	font-family: var(--main-font) !important;
+}
+
 /* Code comment style */
 .mtk3 {
 	font-style: italic !important;
