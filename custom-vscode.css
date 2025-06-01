@@ -113,7 +113,7 @@
 .slider {
 	position: absolute !important;
 	right: 1px !important;
-	width: 1px !important;
+	width: 4px !important;
 	background: var(--scrollbar-color) !important;
 	left: auto !important;
 }
